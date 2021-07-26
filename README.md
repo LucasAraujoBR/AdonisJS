@@ -1,7 +1,3 @@
-<style>
-.h1 {
- background: red;
- }
-</style>
-<h1>AdonisJS</h1>
+
+<h1 style="red">AdonisJS</h1>
  
